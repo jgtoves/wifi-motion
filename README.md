@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/91ba281c-1945-4366-94b6-a65452396095
 
 
 
-# wifi-motion
+# probe-motion
 Probe motion detector using an esp8266, can use as radar based on dev8ces aroubd you, detect people, movement with a football size line of site. Logs wirelessly graphical data of real time movement. It includes a web interface.
 <br>
 <br>
