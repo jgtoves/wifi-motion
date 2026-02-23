@@ -1,5 +1,5 @@
 # wifi-motion
-Wifi motion detector using an esp8266, can see through objects, detect movement with a football size line of site. Logs wirelessly graphical data of real time movement through objects. 
+Wifi motion detector using an esp8266, can see through objects, detect movement with a football size line of site using water in objects that decrease signal strength. Logs wirelessly graphical data of real time movement through objects. 
 <br>
 <br>
 • Must flash Arduino code to esp8266.
@@ -11,3 +11,6 @@ Wifi motion detector using an esp8266, can see through objects, detect movement 
 • Must enter your router information in the code. 
 
 https://github.com/user-attachments/assets/91ba281c-1945-4366-94b6-a65452396095
+
+<br>
+● Tip: the constant wiggles apparently suggests a breathing person is around, it's his chest inhaling and exhaling creating constant movement between router and esp8266, while a big, slow V is likely to he an adult, and a smaller v that is fast is likely a younger person. 
