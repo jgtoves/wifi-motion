@@ -13,4 +13,4 @@ Wifi motion detector using an esp8266, can see through objects, detect movement 
 https://github.com/user-attachments/assets/91ba281c-1945-4366-94b6-a65452396095
 
 <br>
-● Tip: the constant wiggles apparently suggests a breathing person is around, it's his chest inhaling and exhaling creating constant movement between router and esp8266, while a big, slow V is likely to he an adult, and a smaller v that is fast is likely a younger person. 
+● Tip: the constant wiggles apparently suggests a breathing person, it's his chest inhaling and exhaling creating constant movement between router and esp8266. Additionally, a big, slow V is likely to be an adult, and a smaller v that is fast is likely a younger person. 
