@@ -17,5 +17,4 @@ https://github.com/user-attachments/assets/91ba281c-1945-4366-94b6-a65452396095
 
 <br>
 <br>
-<br>
 Built using Google Gemini.
